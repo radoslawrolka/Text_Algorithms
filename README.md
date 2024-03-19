@@ -1,2 +1,3 @@
 # Text_Algorithms
-txt
+
+Text algorithms written in GO.
